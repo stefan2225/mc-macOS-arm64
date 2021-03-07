@@ -1,0 +1,26 @@
+{
+  "build": "nightly",
+  "mode": "zip",
+  "selectedAddons": [],
+  "platform": [
+    "macos-arm64"
+  ],
+  "descriptions": false,
+  "compact": false,
+  "hardcoded": false,
+  "javadoc": true,
+  "includeJSON": true,
+  "source": true,
+  "osgi": false,
+  "language": "groovy",
+  "contents": [
+    "lwjgl",
+    "lwjgl-glfw",
+    "lwjgl-jemalloc",
+    "lwjgl-openal",
+    "lwjgl-opengl",
+    "lwjgl-ovr",
+    "lwjgl-stb",
+    "lwjgl-tinyfd"
+  ]
+}
